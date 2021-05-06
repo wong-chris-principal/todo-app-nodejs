@@ -1,3 +1,5 @@
+https://scratchpad.blog/serverless/howto/configure-aws-api-gateway-with-swagger/
+
 # todo-app-nodejs
 This is a simple Serverless application to show the project structure based on the blog post [Project Structure for Serverless Microservices](https://scratchpad.blog/2019/02/10/project-structure-for-serverless-microservices.html).
 

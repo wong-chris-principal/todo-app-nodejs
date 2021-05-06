@@ -61,3 +61,5 @@ typings/
 .next
 
 sam-template-output.yaml
+
+.aws-sam/
